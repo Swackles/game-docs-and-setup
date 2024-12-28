@@ -8,18 +8,25 @@
 4. Inside the teamspeak folder click on "task_force_radio.ts3_plugin" and it should propt you to install plugin, press install and restart your client afterwards.
 5. Now setup your mic by going  tools -> options -> capture. Under there make sure you have the correct capture device and select "push-to-talk"
 6. Next up in the same options window select addons and make sure Task Force Arrowhead Radio is installed
-![](./assets/teamspeak-options-addons.png)
+
+<img src="./assets/teamspeak-options-addons.png" width="600" />
 
 ## Setup in-game
 
 1. Launch Arma 3
 2. In the menu go configure -> controls
-![](./assets/menu-arma-configure-controls-multiplayer.png)
-![](./assets/arma-configure-controls-multiplayer.png)
+
+<p float="left">
+  <img src="./assets/menu-arma-configure-controls-multiplayer.png" />
+  <img src="./assets/arma-configure-controls-multiplayer.png" width="600" />
+</p>
+
 3. Under show select "Multiplayer" and there search for "Push To Talk". Select that and delete the caps lock key or set it to another key and press ok
 4. Then open the controls window back up, but this time click on the "CONFIGURE ADDONS" on the bottom right.
 5. Select addon "TFAR", here you can change all of the TFAR keybinds, but for now we're interested in two "SR Transmit" and  "LR Transmit"
-![](./assets/arma-configure-controls-addons-tfar.png)
+
+<img src="./assets/arma-configure-controls-addons-tfar.png" width="600" />
+
 6. By default they should be caps-lock for SR and ctrl+caps-lock on LR, but feel free to change them into whatever you want.
 7. Now grab a radio and you can start using them as you please
 
